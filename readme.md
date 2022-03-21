@@ -1,4 +1,4 @@
-The Grasshopper definition requires the use of the following plug-ins (requested when opening the .gh-file):
+The **Grasshopper** definition requires the use of the following plug-ins (requested when opening the .gh-file):
       >>> Karamba3D     > https://www.karamba3d.com/
       >>> GOAT          > https://www.food4rhino.com/en/app/goat
 
