@@ -17,4 +17,4 @@ Additional packages can be installed with Python 2.7 and pip, before adding thes
 
 # Python scripts for Post-processing
 The Grasshopper definition generates an Excel file -- both for global and local optimisation -- which are handled with different 
-Pythonscripts to create plots and visualise the results. 
+[PythonScripts](https://github.com/olaasbo/composite-framework-thesis/tree/main/PythonScripts) to create plots and visualise the results. 
