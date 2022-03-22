@@ -13,4 +13,8 @@ Then, In Rhino:
 In the Rhino Python Editor:
 - Tools > Options... > Copy path to the "Module Search Paths"
 
-Additional packages must can be installed with Python 2.7 and pip, before adding these to the directory
+Additional packages can be installed with Python 2.7 and pip, before adding these to the directory
+
+# Python scripts for Post-processing
+The Grasshopper definition generates an Excel file -- both for global and local optimisation -- which are handled with different 
+Pythonscripts to create plots and visualise the results. 
