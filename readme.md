@@ -1,7 +1,9 @@
+# Grasshopper Plug-ins
 The **Grasshopper** definition requires the use of the following plug-ins (requested when opening the `.gh-file`):
 - Karamba3D     > https://www.karamba3d.com/
 - GOAT          > https://www.food4rhino.com/en/app/goat
 
+# Installing required Python site-packages
 The ghPython components makes use of external modules that are not natively available. Some of these modules, such as numpy, requires the use of 
 "ghpythonremote", see: https://github.com/pilcru/ghpythonremote. However, numpy and similar packages are extremely slow in cPython, thus the use is limited to plotting and Post-processing. 
 
